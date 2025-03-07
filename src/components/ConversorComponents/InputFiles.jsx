@@ -99,7 +99,7 @@ export default function InputFiles({
               onChange={handleFileChange}
             />
 
-            <p className="text-xs text-zinc-500">Formatos suportados: ...</p>
+            <p className="text-xs text-zinc-500">Formatos suportados: PNG, WEBP e JPEG</p>
           </div>
         </label>
       </div>
